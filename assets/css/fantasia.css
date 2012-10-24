@@ -1,0 +1,15 @@
+html {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	opacity: 1;
+}
+body {
+	height: 100%;
+	background: url('../img/fantasia.png') repeat-x;
+	background-size: 100%;
+	background-position: bottom;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
